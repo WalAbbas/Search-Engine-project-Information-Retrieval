@@ -1,5 +1,5 @@
-## Search-Engine-project-PSUT
-# This project was created as a part of the Information Retrieval Course in Princess Sumaya University by Waleed Abbas and Amer Aldweekat under Dr.Bushra Alhijawi 
+# Search-Engine-project-PSUT
+## This project was created as a part of the Information Retrieval Course in Princess Sumaya University by Waleed Abbas and Amer Aldweekat under Dr.Bushra Alhijawi 
 
 # Part 1
 https://github.com/WalAbbas/WalAbbas-Search-Engine-project-PSUT/tree/WalAbbas-part-1-(Dataset-Generation/collection)
